@@ -11,6 +11,28 @@ This project is a simple gallery application built with React, where users can u
 
 You can access the live version of the project [here](https://image-gallery-omega-inky.vercel.app/).
 
+## Project Skeleton
+
+```
+Image Gallery Project(folder)
+     
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── components
+│    │       ├── Picture.jsx
+│    ├── pages
+│    │       ├── Homepage.jsx
+│    ├── helper
+│    │       └── data.js
+│    ├── styles
+│    │       ├── style.css
+│    ├── App.js
+│    ├── index.js
+└── package.json
+```
+
 ## Features
 
 - Image uploading
